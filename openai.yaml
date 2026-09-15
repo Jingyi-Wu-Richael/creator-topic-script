@@ -1,0 +1,4 @@
+interface:
+  display_name: "创作者选题脚本助手"
+  short_description: "整合AI信源与多轮调研，从有依据的选题卡推进到口播初稿和镜头清单"
+  default_prompt: "用 $creator-topic-script 根据我提供的资料提出选题，选定后写成90秒口播和镜头清单。"
